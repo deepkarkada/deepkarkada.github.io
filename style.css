@@ -1,0 +1,14 @@
+#about {
+  text-align: center;
+  margin: 40px;
+}
+#about img {
+  width: 200px;
+  border-radius: 100%;
+}
+#about h1 {
+  margin: 25px;
+}
+section {
+  margin: 40px;
+}
