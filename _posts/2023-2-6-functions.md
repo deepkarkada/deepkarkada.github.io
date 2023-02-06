@@ -2,10 +2,10 @@
 layout: distill
 title: a distill-style blog post
 description: an example of a distill-style blog post and main elements
-date: 2021-05-22
+date: 2023-02-06
 
 authors:
-  - name: Albert Einstein
+  - name: Deepthi karkada
     url: "https://en.wikipedia.org/wiki/Albert_Einstein"
     affiliations:
       name: IAS, Princeton
