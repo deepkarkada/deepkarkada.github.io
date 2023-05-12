@@ -4,20 +4,12 @@ title: a distill-style blog post
 description: an example of a distill-style blog post and main elements
 tags: calculus
 date: 2023-02-06
+layout: default
+comments: true
 
 authors:
   - name: Deepthi karkada
-    url: "https://en.wikipedia.org/wiki/Albert_Einstein"
-    affiliations:
-      name: IAS, Princeton
-  - name: Boris Podolsky
-    url: "https://en.wikipedia.org/wiki/Boris_Podolsky"
-    affiliations:
-      name: IAS, Princeton
-  - name: Nathan Rosen
-    url: "https://en.wikipedia.org/wiki/Nathan_Rosen"
-    affiliations:
-      name: IAS, Princeton
+    
 
 bibliography: 2018-12-22-distill.bib
 
@@ -276,3 +268,8 @@ This line is separated from the one above by two newlines, so it will be a *sepa
 
 This line is also a separate paragraph, but...
 This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
+
+
+{% if page.comments %} 
+{% include disqus.html %}
+{% endif %}
