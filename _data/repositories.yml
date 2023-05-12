@@ -4,6 +4,8 @@ github_users:
 
 github_repos:
   - deepkarkada/nellie
+  - karkadad/optimum
+  - karkadad/DeepSpeech
   # - twbs/bootstrap
   # - jekyll/jekyll
   # - jquery/jquery
