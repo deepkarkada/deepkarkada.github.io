@@ -5,7 +5,7 @@ description: an example of a distill-style blog post and main elements
 tags: calculus
 date: 2023-02-06
 layout: default
-comments: true
+comments: false
 
 authors:
   - name: Deepthi karkada
