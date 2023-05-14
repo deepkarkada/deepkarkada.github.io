@@ -29,7 +29,7 @@ toc:
 
 ## Sample Spaces
 
-The possible outcomes of an experiment for the sample space. These outcomes are usually represented as a set and have certain properties associated with them. 
+The possible outcomes of an experiment form the sample space. These outcomes are usually represented as a set and have certain properties associated with them. 
 
 
 <!-- This theme supports rendering beautiful math in inline and display modes using [MathJax 3](https://www.mathjax.org/) engine.
