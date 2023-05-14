@@ -51,6 +51,7 @@ Note that MathJax 3 is [a major re-write of MathJax](https://docs.mathjax.org/en
 ## Probability axioms
 
 Citations are then used in the article body with the `<d-cite>` tag.
+
 <!-- The key attribute is a reference to the id provided in the bibliography.
 The key attribute can take multiple ids, separated by commas.
 
