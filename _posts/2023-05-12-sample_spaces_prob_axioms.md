@@ -9,7 +9,7 @@ authors:
   - name: Deepthi karkada
     
 
-#bibliography: 2018-12-22-distill.bib
+bibliography: 2023-05-12-sample_spaces_prob_axioms.bib
 
 # Optionally, you can add a table of contents to your post.
 # NOTES:
@@ -24,7 +24,7 @@ toc:
     #   - name: Example Child Subsection 1
     #   - name: Example Child Subsection 2
   - name: Probability axioms
-  - name: Footnotes
+  - name: References
 ---
 
 ## Sample Spaces
@@ -59,9 +59,11 @@ However, we consider it good style to mention author last names if you discuss s
 
 ***
 
-## Footnotes
+## References
 
-Just wrap the text you would like to show up in a footnote in a `<d-footnote>` tag.
-The number of the footnote will be automatically generated.<d-footnote>This will become a hoverable footnote.</d-footnote>
+Much of the content is referenced from the excellent lecture series on introduction to probability by Prof. John Tsitsiklis and Prof. Prof. Patrick Jaillet <d-cite key="tsitsiklisprob"></d-cite>.
+
+<!-- Just wrap the text you would like to show up in a footnote in a `<d-footnote>` tag.
+The number of the footnote will be automatically generated.<d-footnote>This will become a hoverable footnote.</d-footnote> -->
 
 ***
