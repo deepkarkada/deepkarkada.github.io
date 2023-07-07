@@ -52,8 +52,5 @@ Note that MathJax 3 is [a major re-write of MathJax](https://docs.mathjax.org/en
 
 ***
 
-## References
-
-
 <!-- Just wrap the text you would like to show up in a footnote in a `<d-footnote>` tag.
 The number of the footnote will be automatically generated.<d-footnote>This will become a hoverable footnote.</d-footnote> -->
